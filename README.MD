@@ -21,6 +21,7 @@ Table of Contents
   * [Other]()
 * [Docs]()
 * [SDKs]()
+* [Open Source Repos]()
 * [Educational Programs]()
 
 ## Solana Dev Overview
