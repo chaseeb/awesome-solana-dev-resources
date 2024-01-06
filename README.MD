@@ -108,7 +108,7 @@ Table of Contents
   * Encode
   * Ackee
 
-    # For Ethereum Devs
+# For Ethereum Devs
 
-Coming soon...
+  Coming soon...
 
