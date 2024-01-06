@@ -82,7 +82,7 @@ Table of Contents
 
 ## Tooling
 
-  Coming soon...
+* [Dev Tooling List](https://github.com/solana-developers/solana-tools) - list of current development tools for Solana
 
 ## Ecosystem Docs and SDKs
 
