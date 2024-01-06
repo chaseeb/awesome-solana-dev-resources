@@ -66,6 +66,9 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 
 * [SolAndy](https://www.youtube.com/solandy)
 
+# Self Learning Courses
+
+# Tooling
 
 # Ecosystem Docs and SDKs
 
@@ -86,4 +89,13 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 # Open Source Repos
 
 * [Solana Open Source Software](https://github.com/StockpileLabs/awesome-solana-oss)
+
+# Educational Programs
+
+* Web3BuildersAlliance
+* Risein
+* Encode
+* Ackee
+
+# For Ethereum Devs
 
