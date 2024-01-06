@@ -48,9 +48,9 @@ Table of Contents
   If you're someone who just prefers to read documentation end-to-end feel free to hop on over to the [Solana Docs](https://solana.com/docs) and get rolling. Otherwise, continue on in this section.
   
   ### From the Docs
+  * [Important Concepts](https://solana.com/docs#start-learning)
   * [Setup Your Environment](https://solana.com/developers/guides/getstarted/setup-local-development)
   * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser)
-  * [Important Concepts](https://solana.com/docs#start-learning)
   
   #### Other Great Resources
   
