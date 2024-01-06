@@ -21,8 +21,11 @@ Table of Contents
   * [Other]()
 * [Docs]()
 * [SDKs]()
+* [Educational Programs]()
 
 ## Solana Dev Overview
+
+If you're not new to Solana and just here for the resources, I hope this is helpful, but if you are new then I thought it would be helpful to give a brief explainer and overview to make the idea of building on a Solana a little less overwhelming.
 
 ## Getting Started 
 
