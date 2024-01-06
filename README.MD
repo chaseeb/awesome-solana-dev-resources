@@ -9,7 +9,7 @@
 Table of Contents
 =================
 
-* [Solana Dev Overview]()
+* [Solana Dev Overview](#solana-dev-overview)
 * [Getting Started]()
 * [Tutorials]()
 * [Video Content]()
