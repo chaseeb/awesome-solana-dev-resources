@@ -12,7 +12,7 @@ Table of Contents
 * [Solana Dev Overview](#solana-dev-overview)
 * [Getting Started](#getting-started-for-noobs)
 * [Guides And Tutorials]()
-* [Video Content]()
+* [Video Learning Content](#video-learning-content)
 * [Self Learning Courses](#self-learning-courses)
 * [Tooling]()
   * [General Developer Tools]()
@@ -59,6 +59,13 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 
 * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
 * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
+
+# Guides and Tutorials
+
+# Video Learning Content
+
+* [SolAndy](https://www.youtube.com/solandy)
+
 
 # Ecosystem Docs and SDKs
 
