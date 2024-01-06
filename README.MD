@@ -14,15 +14,15 @@ Table of Contents
 * [Guides And Tutorials](#guides-and-tutorials)
 * [Video Learning Content](#video-learning-content)
 * [Self Learning Courses](#self-learning-courses)
-* [Tooling]()
+* [Tooling](#tooling)
   * [General Developer Tools]()
   * [Indexers]()
   * [RPCs]()
   * [Other]()
 * [Ecosystem Docs and SDKs](#ecosystem-docs-and-sdks)
 * [Open Source Repos](#open-source-repos)
-* [Educational Programs]()
-* [For Ethereum Devs]()
+* [Educational Programs](#educational-programs)
+* [For Ethereum Devs](#for-ethereum-devs)
 
 ## Solana Dev Overview
 
@@ -60,17 +60,23 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
 * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
 
-# Guides and Tutorials
+## Guides and Tutorials
 
-# Video Learning Content
+Coming soon...
+
+## Video Learning Content
 
 * [SolAndy](https://www.youtube.com/solandy)
 
-# Self Learning Courses
+## Self Learning Courses
 
-# Tooling
+Coming soon...
 
-# Ecosystem Docs and SDKs
+## Tooling
+
+Coming soon...
+
+## Ecosystem Docs and SDKs
 
 #### General Solana
 
@@ -98,4 +104,6 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 * Ackee
 
 # For Ethereum Devs
+
+Coming soon...
 
