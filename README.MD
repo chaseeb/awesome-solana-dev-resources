@@ -39,8 +39,10 @@ Table of Contents
   Any easy way to think of Solana development is programs being server side (running on the blockchain), and all other development being client side. In order to interact with programs on the blockchain, all you really need is an SDK like Web3.js in order to send requests to those programs in order to update something on the blockchain or retrieve data from it. So if you're coming from web2, then simply put in relatable terms you can use client side SDKs to interact with the blockchain the same way you'd use an API in web2.
   
   There are a wide variety of SDKs that exist today. Web3.js is a library for interacting with any Solana program, but there are specialized SDKs for things like payments, gaming, defi, NFTS, daos and more. You could essentially build a really cool app on Solana using a single SDK and never having to know anything about Rust or how the programs themselves work. It really can be that easy!
-  
+
   There are attitional tools that will give you even greater capabilities, and you can see that in the tooling section!
+
+  For a little more precise and in depth explanation for the above check out [Introduction to Solana Development](https://solana.com/docs/intro/dev) from the documentation!
   
   ## Getting Started For Noobs
   
@@ -49,6 +51,7 @@ Table of Contents
   If you're someone who just prefers to read documentation end-to-end feel free to hop on over to the [Solana Docs](https://solana.com/docs) and get rolling. Otherwise, continue on in this section.
   
   ### From the Docs
+  * [Introduction to Solana Development](https://solana.com/docs/intro/dev) - A greant introduction to Solana development directly in the docs
   * [Important Concepts](https://solana.com/docs#start-learning) - concepts you should be familiar with as you start your solana journey
   * [Setup Your Environment](https://solana.com/developers/guides/getstarted/setup-local-development) - setting up a local environment is a good practice, but not required. Highly recommended.
   * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser) - build your first hello world app on chain using a Web IDE
