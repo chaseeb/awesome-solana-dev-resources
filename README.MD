@@ -48,7 +48,12 @@ Your experience getting started with Solana development will vary depending on y
 * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser)
 * [Important Concepts](https://solana.com/docs#start-learning)
 
-### Other Great Resources
+#### Other Great Resources
 
 * [Solana Bytes (Playlist)](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)
+
+#### Solana Dev Starter Pack
+
+* [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
+* [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
 
