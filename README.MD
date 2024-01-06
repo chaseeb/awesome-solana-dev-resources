@@ -55,6 +55,7 @@ Table of Contents
   #### Other Great Resources
   
   * [Solana Bytes (Playlist)](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)
+  * [Solana Cookbook](https://solanacookbook.com)
   
   #### Solana Dev Starter Pack
   
