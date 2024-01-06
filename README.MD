@@ -24,6 +24,7 @@ Table of Contents
 * [Open Source Repos](#open-source-repos)
 * [Educational Programs](#educational-programs)
 * [For Ethereum Devs](#for-ethereum-devs)
+* [Security](#security)
 
 ## Solana Dev Overview
 
@@ -110,6 +111,10 @@ Table of Contents
   * Ackee
 
 # For Ethereum Devs
+
+  Coming soon...
+
+# Security
 
   Coming soon...
 
