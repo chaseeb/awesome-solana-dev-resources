@@ -20,9 +20,10 @@ Table of Contents
   * [RPCs]()
   * [Other]()
 * [Docs]()
-* [SDKs]()
+* [SDKs](#sdks)
 * [Open Source Repos]()
 * [Educational Programs]()
+* [For Ethereum Devs]()
 
 ## Solana Dev Overview
 
@@ -44,6 +45,8 @@ There are attitional tools that will give you even greater capabilities, and you
 
 Your experience getting started with Solana development will vary depending on your interests and skill level, and in this section I'll be sharing some resources that should serve as good starting points in your Solana development journey.
 
+If you're someone who just prefers to read documentation end-to-end feel free to hop on over to the [Solana Docs](https://solana.com/docs) and get rolling. Otherwise, continue on in this section.
+
   ### From the Docs
 * [Setup Your Environment](https://solana.com/developers/guides/getstarted/setup-local-development)
 * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser)
@@ -57,4 +60,18 @@ Your experience getting started with Solana development will vary depending on y
 
 * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
 * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
+
+# SDKs
+
+#### General Solana
+
+#### NFTs
+
+#### Payments
+
+#### Gaming
+
+#### Defi
+
+#### DAOs
 
