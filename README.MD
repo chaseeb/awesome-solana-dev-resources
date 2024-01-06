@@ -25,7 +25,7 @@ Table of Contents
 * [Educational Programs](#educational-programs)
 * [For Ethereum Devs](#for-ethereum-devs)
 
-## Solana Dev Overview
+    ## Solana Dev Overview
 
 If you're not new to Solana and just here for the resources, I hope this is helpful, but if you are new then I thought it would be helpful to give a brief explainer and overview to make the idea of building on a Solana a little less overwhelming. Also important to note that if you're coming from another blockchain then building on Solana is going to be a much different experience, so trying to make comparisons may be challenging and its almost best to come into this with the mindset of learning something for the first time. But don't worry its not as scary as it may seem. 
 
@@ -41,7 +41,7 @@ There are a wide variety of SDKs that exist today. Web3.js is a library for inte
 
 There are attitional tools that will give you even greater capabilities, and you can see that in the tooling section!
 
-## Getting Started For Noobs
+    ## Getting Started For Noobs
 
 Your experience getting started with Solana development will vary depending on your interests and skill level, and in this section I'll be sharing some resources that should serve as good starting points in your Solana development journey.
 
@@ -61,27 +61,27 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
 * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
 
-## Guides and Tutorials
+    ## Guides and Tutorials
 
 Coming soon...
 
-## Video Learning Content
+    ## Video Learning Content
 
 * [SolAndy](https://www.youtube.com/solandy)
 
-## Self Learning Courses
+    ## Self Learning Courses
 
 Coming soon...
 
-## Solana Explainers
+    ## Solana Explainers
 
 * [Helius Blog](https://helius.dev/blog)
 
-## Tooling
+    ## Tooling
 
 Coming soon...
 
-## Ecosystem Docs and SDKs
+    ## Ecosystem Docs and SDKs
 
 #### General Solana
 
@@ -97,18 +97,18 @@ Coming soon...
 
 #### DAOs
 
-# Open Source Repos
+    # Open Source Repos
 
 * [Solana Open Source Software](https://github.com/StockpileLabs/awesome-solana-oss)
 
-# Educational Programs
+    # Educational Programs
 
 * Web3BuildersAlliance
 * Risein
 * Encode
 * Ackee
 
-# For Ethereum Devs
+    # For Ethereum Devs
 
 Coming soon...
 
