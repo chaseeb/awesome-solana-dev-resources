@@ -43,7 +43,7 @@ There are attitional tools that will give you even greater capabilities, and you
 
 Your experience getting started with Solana development will vary depending on your interests and skill level, and in this section I'll be sharing some resources that should serve as good starting points in your Solana development journey.
 
-### From the Docs
+  ### From the Docs
 * [Setup Your Environment](https://solana.com/developers/guides/getstarted/setup-local-development)
 * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser)
 * [Important Concepts](https://solana.com/docs#start-learning)
