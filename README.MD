@@ -61,6 +61,7 @@ Table of Contents
   #### Solana Dev Starter Pack
   
   * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
+  * [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp)
   * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
 
 ## Guides and Tutorials
