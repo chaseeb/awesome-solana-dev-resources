@@ -66,7 +66,7 @@ Table of Contents
 
 ## Guides and Tutorials
 
-  Coming soon...
+* [From Solana.com](https://solana.com/developers/guides) - Assortment of guides and tutorials from the main solana website
 
 ## Video Learning Content
 
