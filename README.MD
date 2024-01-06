@@ -100,6 +100,8 @@ Table of Contents
   #### NFTs
   
   #### Payments
+
+  *  [Solana Pay](https://docs.solanapay.com/) - Payments made easy. Start building payments apps on Solana using only javascript/typescript
   
   #### Gaming
   
