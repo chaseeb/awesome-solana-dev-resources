@@ -13,15 +13,14 @@ Table of Contents
 * [Getting Started](#getting-started-for-noobs)
 * [Guides And Tutorials]()
 * [Video Content]()
-* [Courses]()
+* [Self Learning Courses](#self-learning-courses)
 * [Tooling]()
   * [General Developer Tools]()
   * [Indexers]()
   * [RPCs]()
   * [Other]()
-* [Docs]()
-* [SDKs](#sdks)
-* [Open Source Repos]()
+* [Ecosystem Docs and SDKs](#ecosystem-docs-and-sdks)
+* [Open Source Repos](#open-source-repos)
 * [Educational Programs]()
 * [For Ethereum Devs]()
 
@@ -61,9 +60,11 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
 * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
 
-# SDKs
+# Ecosystem Docs and SDKs
 
 #### General Solana
+
+* [Solana Core Docs](https://solana.com/docs)
 
 #### NFTs
 
@@ -74,4 +75,8 @@ If you're someone who just prefers to read documentation end-to-end feel free to
 #### Defi
 
 #### DAOs
+
+# Open Source Repos
+
+* [Solana Open Source Software](https://github.com/StockpileLabs/awesome-solana-oss)
 
