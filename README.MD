@@ -11,11 +11,14 @@ Table of Contents
 
 * [Solana Dev Overview](#solana-dev-overview)
 * [Getting Started]()
-* [Tutorials]()
+* [Guides And Tutorials]()
 * [Video Content]()
 * [Courses]()
 * [Tooling]()
   * [General Developer Tools]()
+  * [Indexers]()
+  * [RPCs]()
+  * [Other]()
 * [Docs]()
 * [SDKs]()
 
