@@ -57,24 +57,31 @@ Table of Contents
   
   * [Solana Bytes](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) - Video playlist of byte sized, important Solana concepts and a must watch.
   * [Solana Cookbook](https://solanacookbook.com) - One of the most popular resources for concepts, guides and reference code snippets 
+  * [Solana Bootcamp](https://www.youtube.com/watch?v=0P8JeL3TURU&list=PLilwLeBwGuK6NsYMPP_BlVkeQgff0NwvU) - An incredible 7 hour video playlist crash course on Solana development. Perfect for anyone looking to dive right in.
   
   #### Solana Dev Starter Pack
   
   * [Web3.js Library](https://github.com/solana-labs/solana-web3.js) - primary client library for interacting with the solana blockchain in javascript
   * [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) - quickly spin up a solana application scaffold
   * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
+  * [Solana Stack Exchange](https://solana.stackexchange.com) - the perfect place to ask technical questions or search previously answered questions about solana development
 
 ## Guides and Tutorials
 
-* [From Solana.com](https://solana.com/developers/guides) - Assortment of guides and tutorials from the main solana website
+  * [From Solana.com](https://solana.com/developers/guides) - Assortment of guides and tutorials from the main solana website
 
 ## Video Learning Content
 
   * [SolAndy](https://www.youtube.com/solandy) - a wide variety of solana developer content that is produced weekly
+  * [Solana Bootcamp](https://www.youtube.com/watch?v=0P8JeL3TURU&list=PLilwLeBwGuK6NsYMPP_BlVkeQgff0NwvU) - An incredible 7 hour video playlist crash course on Solana development. Perfect for anyone looking to dive right in.
 
 ## Self Learning Courses
 
-  Coming soon...
+  * [THE Solana Course](https://soldev.app/course) - An end to end, comprehensive, intermediate self learning course for all things Solana
+  * [Freecodecamp](https://web3.freecodecamp.org/solana) - A fully intereactive Solana course on Freecodecamp that is taught directly from your Visual Studio Code IDE
+  * [RiseIn](https://www.risein.com/courses/build-on-solana) - An excellent introductory Solana couse with both options for text and video based learning
+  * [Ideasoft Rust/Solana Beginner](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners) - Great Solana/Rust course for beginners if you're interesting in building programs (smart contracts)
+  * [Ideasoft Rust/Solana Advanced](https://careerbooster.io/courses/rust-solana-advance-development-course) - Advanced course for those that complete the Ideasoft Rust/Solana beginner program
 
 ## Solana Explainers
 
