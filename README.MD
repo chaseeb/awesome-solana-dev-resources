@@ -14,6 +14,7 @@ Table of Contents
 * [Guides And Tutorials](#guides-and-tutorials)
 * [Video Learning Content](#video-learning-content)
 * [Self Learning Courses](#self-learning-courses)
+* [Solana Explainers](#solana-explainers)
 * [Tooling](#tooling)
   * [General Developer Tools]()
   * [Indexers]()
@@ -71,6 +72,10 @@ Coming soon...
 ## Self Learning Courses
 
 Coming soon...
+
+## Solana Explainers
+
+* [Helius Blog](https://helius.dev/blog)
 
 ## Tooling
 
