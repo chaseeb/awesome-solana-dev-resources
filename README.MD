@@ -49,19 +49,19 @@ Table of Contents
   If you're someone who just prefers to read documentation end-to-end feel free to hop on over to the [Solana Docs](https://solana.com/docs) and get rolling. Otherwise, continue on in this section.
   
   ### From the Docs
-  * [Important Concepts](https://solana.com/docs#start-learning)
-  * [Setup Your Environment](https://solana.com/developers/guides/getstarted/setup-local-development)
-  * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser)
+  * [Important Concepts](https://solana.com/docs#start-learning) - concepts you should be familiar with as you start your solana journey
+  * [Setup Your Environment](https://solana.com/developers/guides/getstarted/setup-local-development) - setting up a local environment is a good practice, but not required. Highly recommended.
+  * [Hello World](https://solana.com/developers/guides/getstarted/hello-world-in-your-browser) - build your first hello world app on chain using a Web IDE
   
   #### Other Great Resources
   
-  * [Solana Bytes (Playlist)](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)
-  * [Solana Cookbook](https://solanacookbook.com)
+  * [Solana Bytes](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) - Video playlist of byte sized, important Solana concepts and a must watch.
+  * [Solana Cookbook](https://solanacookbook.com) - One of the most popular resources for concepts, guides and reference code snippets 
   
   #### Solana Dev Starter Pack
   
-  * [Web3.js Library](https://github.com/solana-labs/solana-web3.js)
-  * [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp)
+  * [Web3.js Library](https://github.com/solana-labs/solana-web3.js) - primary client library for interacting with the solana blockchain in javascript
+  * [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) - quickly spin up a solana application scaffold
   * [Solana Playground](https://beta.solpg.io/) - Solana Program Web IDE
 
 ## Guides and Tutorials
@@ -70,7 +70,7 @@ Table of Contents
 
 ## Video Learning Content
 
-  * [SolAndy](https://www.youtube.com/solandy)
+  * [SolAndy](https://www.youtube.com/solandy) - a wide variety of solana developer content that is produced weekly
 
 ## Self Learning Courses
 
@@ -78,7 +78,7 @@ Table of Contents
 
 ## Solana Explainers
 
-  * [Helius Blog](https://helius.dev/blog)
+  * [Helius Blog](https://helius.dev/blog) - technical explainer posts for some of solanas most important and crucial pieces
 
 ## Tooling
 
@@ -88,7 +88,7 @@ Table of Contents
 
   #### General Solana
   
-  * [Solana Core Docs](https://solana.com/docs)
+  * [Solana Core Docs](https://solana.com/docs) - the core solana documentation 
   
   #### NFTs
   
@@ -102,7 +102,7 @@ Table of Contents
 
 # Open Source Repos
 
-  * [Solana Open Source Software](https://github.com/StockpileLabs/awesome-solana-oss)
+  * [Solana Open Source Software](https://github.com/StockpileLabs/awesome-solana-oss) - another solana-awesome repo filled with open source projects to use as references and learning tools
 
 # Educational Programs
 
