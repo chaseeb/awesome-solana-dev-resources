@@ -29,6 +29,14 @@ Table of Contents
 * [For Ethereum Devs](#for-ethereum-devs)
 * [Security](#security)
 
+## Why build on blockchain?
+
+Blockchain provides an open platform for **digital ownership**.
+
+ - Before blockchain, purchasing items or transferring funds was done through private companies that extracted anywhere from 2-6% of the value of every transaction. Blockchain creates open public standards around digital currencies, meaning I can trade some token on one platform, purchase an item with those tokens on another, and sell it on a third platform without intermediaries collecting large percentages of the value being transferred.   
+
+ - Before Blockchain, any copy of a digital artwork was just as valid as any other - meaning it was hard for digital artists to get paid for their creativity. Now artists can sell their work digitally, and art collectors and investors can pay artists to 'own' art. Additionally, artists that became popular did not see financial benefits of the increase in value of their older works. Now residuals to artists can be baked into the artwork as a pNFT.  
+
 ## Solana Dev Overview
 
   If you're not new to Solana and just here for the resources, I hope this is helpful, but if you are new then I thought it would be helpful to give a brief explainer and overview to make the idea of building on a Solana a little less overwhelming. Also important to note that if you're coming from another blockchain then building on Solana is going to be a much different experience, so trying to make comparisons may be challenging and its almost best to come into this with the mindset of learning something for the first time. But don't worry its not as scary as it may seem. 
