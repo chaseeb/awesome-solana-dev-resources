@@ -10,7 +10,7 @@ Table of Contents
 =================
 
 * [Why build on blockchain?](#why-build-on-blockchain)
-* Presentations
+* [Presentations](#presentations)
 * [Solana Dev Overview](#solana-dev-overview)
 * [Use Cases](#use-cases)
 * [Getting Started For Noobs](#getting-started-for-noobs)
@@ -36,6 +36,10 @@ Blockchain provides an open platform for **digital ownership**.
  - Before blockchain, purchasing items or transferring funds was done through private companies that extracted anywhere from 2-6% of the value of every transaction. Blockchain creates open public standards around digital currencies, meaning I can trade some token on one platform, purchase an item with those tokens on another, and sell it on a third platform without intermediaries collecting large percentages of the value being transferred.   
 
  - Before Blockchain, any copy of a digital artwork was just as valid as any other - meaning it was hard for digital artists to get paid for their creativity. Now artists can sell their work digitally, and art collectors and investors can pay artists to 'own' art. Additionally, artists that became popular did not see financial benefits of the increase in value of their older works. Now residuals to artists can be baked into the artwork as a pNFT.  
+
+## Presentations
+
+[Solana Basics for Everyone (Keynote](https://github.com/mikemaccana/solana-basics-for-everyone)
 
 ## Solana Dev Overview
 
