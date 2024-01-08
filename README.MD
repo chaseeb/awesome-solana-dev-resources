@@ -9,7 +9,7 @@
 Table of Contents
 =================
 
-* Why build on blockchain?
+* [Why build on blockchain?](#why-build-on-blockchain)
 * Presentations
 * [Solana Dev Overview](#solana-dev-overview)
 * [Use Cases](#use-cases)
