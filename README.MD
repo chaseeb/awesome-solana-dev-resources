@@ -39,7 +39,7 @@ Blockchain provides an open platform for **digital ownership**.
 
 ## Presentations
 
-[Solana Basics for Everyone (Keynote](https://github.com/mikemaccana/solana-basics-for-everyone)
+[Solana Basics for Everyone (Keynote)](https://github.com/mikemaccana/solana-basics-for-everyone)
 
 ## Solana Dev Overview
 
