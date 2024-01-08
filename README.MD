@@ -9,7 +9,9 @@
 Table of Contents
 =================
 
+* Why build on blockchain?
 * [Solana Dev Overview](#solana-dev-overview)
+* [Use Cases](#use-cases)
 * [Getting Started For Noobs](#getting-started-for-noobs)
 * [Guides And Tutorials](#guides-and-tutorials)
 * [Video Learning Content](#video-learning-content)
@@ -43,8 +45,22 @@ Table of Contents
   There are attitional tools that will give you even greater capabilities, and you can see that in the tooling section!
 
   For a little more precise and in depth explanation for the above check out [Introduction to Solana Development](https://solana.com/docs/intro/dev) from the documentation!
-  
-  ## Getting Started For Noobs
+
+## Use Cases
+
+  If you're new to Solana development, I thought it would be useful to highlight a handful of usecases just to give you an idea of what is possible to build on a high performance blockchain that allows you to build web3 apps at the scale of of web2.
+
+  * Games and Entertainment
+  * Payments and Commerce
+  * NFTs
+  * Defi
+  * DePin
+  * RWA
+  * Permissioned Envionments
+
+  You can find tools to suit your needs for each of these use cases in the [tooling](#tooling) section.
+
+## Getting Started For Noobs
   
   Your experience getting started with Solana development will vary depending on your interests and skill level, and in this section I'll be sharing some resources that should serve as good starting points in your Solana development journey.
   
