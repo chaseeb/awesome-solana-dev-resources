@@ -64,7 +64,7 @@ Table of Contents
   
   Your experience getting started with Solana development will vary depending on your interests and skill level, and in this section I'll be sharing some resources that should serve as good starting points in your Solana development journey.
   
-  If you're someone who just prefers to read documentation end-to-end feel free to hop on over to the [Solana Docs](https://solana.com/docs) and get rolling. Otherwise, continue on in this section.
+  If you're someone who just prefers to read documentation end-to-end feel free to hop on over to the [Solana Docs](https://solana.com/docs) and get rolling then head to [THE Solana Course](https://soldev.app/course). Otherwise if you're not ready, continue reading this section for some lightweight learning.
   
   ### From the Docs
   * [Introduction to Solana Development](https://solana.com/docs/intro/dev) - A great introduction to important Solana development knowledge
